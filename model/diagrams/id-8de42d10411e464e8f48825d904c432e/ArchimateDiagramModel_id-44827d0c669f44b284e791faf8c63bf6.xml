@@ -81,4 +81,16 @@
         xsi:type="archimate:Goal"
         href="Goal_id-529ad6052b0d448a8950f04aab4f974c.xml#id-529ad6052b0d448a8950f04aab4f974c"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-21ea4d2faa35459da9f7796e87635253">
+    <bounds
+        x="741"
+        y="415"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ValueStream"
+        href="ValueStream_id-2597a5e26155455e89a35b8dac71eab7.xml#id-2597a5e26155455e89a35b8dac71eab7"/>
+  </children>
 </archimate:ArchimateDiagramModel>
