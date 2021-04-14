@@ -50,9 +50,9 @@
           href="AssociationRelationship_id-b12be75f24654863bbda33d56ec2d499.xml#id-b12be75f24654863bbda33d56ec2d499"/>
     </sourceConnections>
     <bounds
-        x="72"
+        x="84"
         y="252"
-        width="120"
+        width="108"
         height="55"/>
     <archimateElement
         xsi:type="archimate:DataObject"
