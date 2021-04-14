@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Dashboard Structure"
+    name="Data Structure"
     id="id-be36f4c705ed4fc4854a611d03ae6c49">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -125,7 +125,7 @@
           href="AssociationRelationship_id-924b517adfd2432aa8354591bf2e9f59.xml#id-924b517adfd2432aa8354591bf2e9f59"/>
     </sourceConnections>
     <bounds
-        x="528"
+        x="516"
         y="132"
         width="120"
         height="55"/>
@@ -147,7 +147,7 @@
           href="AssociationRelationship_id-b61ff640039f4989adaa24cfad3b37c5.xml#id-b61ff640039f4989adaa24cfad3b37c5"/>
     </sourceConnections>
     <bounds
-        x="672"
+        x="648"
         y="132"
         width="120"
         height="55"/>
@@ -160,7 +160,7 @@
       id="id-d218a6bae6634f92a777c5babb95e117"
       targetConnections="id-5dc604748d94480c8ba40154e0ca88be">
     <bounds
-        x="816"
+        x="780"
         y="132"
         width="120"
         height="55"/>
