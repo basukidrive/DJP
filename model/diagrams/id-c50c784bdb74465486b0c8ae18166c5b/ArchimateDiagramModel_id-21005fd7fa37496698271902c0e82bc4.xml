@@ -8,8 +8,8 @@
       id="id-92125c51e9054378a9588abb1c85cffa"
       targetConnections="id-2c4e5218e7554ce2bd1a41e0fb893247">
     <bounds
-        x="156"
-        y="84"
+        x="107"
+        y="108"
         width="120"
         height="55"/>
     <archimateElement
@@ -69,8 +69,8 @@
           href="AssociationRelationship_id-2d56c4e38fdc4c5fa1426a97455efdbf.xml#id-2d56c4e38fdc4c5fa1426a97455efdbf"/>
     </sourceConnections>
     <bounds
-        x="301"
-        y="84"
+        x="252"
+        y="108"
         width="120"
         height="55"/>
     <archimateElement
