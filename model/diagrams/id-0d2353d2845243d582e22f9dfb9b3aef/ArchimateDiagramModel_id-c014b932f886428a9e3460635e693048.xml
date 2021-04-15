@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Portofolio"
+    name="Dashboard Portofolio"
     id="id-c014b932f886428a9e3460635e693048">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -24,10 +24,19 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-8fb9bd1314a64fca8eb1ae913c550745.xml#id-8fb9bd1314a64fca8eb1ae913c550745"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-18a80dc61878425c9eb2705523261393"
+        source="id-ad94c4a8da2a41fe9b3810bb2351fe4f"
+        target="id-7001cdd3b93f42a0b7767de41b2e676c">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-21bfc8dd65ff4e5980aaee65f5d5704e.xml#id-21bfc8dd65ff4e5980aaee65f5d5704e"/>
+    </sourceConnections>
     <bounds
         x="108"
         y="60"
-        width="295"
+        width="409"
         height="120"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -54,6 +63,19 @@
       <archimateElement
           xsi:type="archimate:BusinessObject"
           href="BusinessObject_id-2ca5b8f793434471a44887e23816cd5c.xml#id-2ca5b8f793434471a44887e23816cd5c"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-7001cdd3b93f42a0b7767de41b2e676c"
+        targetConnections="id-18a80dc61878425c9eb2705523261393">
+      <bounds
+          x="276"
+          y="36"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessObject"
+          href="BusinessObject_id-9fb8990987ea49889dd0cf2328ae5962.xml#id-9fb8990987ea49889dd0cf2328ae5962"/>
     </children>
     <archimateElement
         xsi:type="archimate:BusinessObject"
