@@ -37,16 +37,16 @@
         x="36"
         y="48"
         width="757"
-        height="215"/>
+        height="241"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-aaf77b07b3454c8b9c30f4895eb88a88"
         targetConnections="id-ca8adb465fe6470999b9cd02240e7bad">
       <bounds
           x="48"
-          y="56"
+          y="96"
           width="202"
-          height="137"/>
+          height="121"/>
       <archimateElement
           xsi:type="archimate:Goal"
           href="Goal_id-8d7f6b9848cd4b629d20a3477ba14555.xml#id-8d7f6b9848cd4b629d20a3477ba14555"/>
@@ -57,9 +57,9 @@
         targetConnections="id-84808f4c6cb146d09b0e30258d3f60f9">
       <bounds
           x="264"
-          y="60"
+          y="96"
           width="229"
-          height="129"/>
+          height="121"/>
       <archimateElement
           xsi:type="archimate:Goal"
           href="Goal_id-f2d5d99a5085469081b2b4f9499002e1.xml#id-f2d5d99a5085469081b2b4f9499002e1"/>
@@ -70,9 +70,9 @@
         targetConnections="id-ca98d4b3f53c4f6ba8066a2a7139c3ad">
       <bounds
           x="516"
-          y="56"
+          y="96"
           width="205"
-          height="133"/>
+          height="121"/>
       <archimateElement
           xsi:type="archimate:Goal"
           href="Goal_id-29a7f75e0730442abc8838182afd7f32.xml#id-29a7f75e0730442abc8838182afd7f32"/>
